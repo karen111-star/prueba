@@ -103,7 +103,7 @@ export default function App() {
     </View>
   );
 }
-
+// estilo
 const styles = StyleSheet.create({
   container: {
     flex: 1,
